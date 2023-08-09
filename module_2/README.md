@@ -3,7 +3,7 @@
 
 data source: The World Bank
 
-## Module 2:Exploratory Data Analysis, Descriptive Statistics and Visualizations
+## Module 2: Exploratory Data Analysis, Descriptive Statistics, and Visualizations
 
 ### Key Concept and Learning Objectives
 
